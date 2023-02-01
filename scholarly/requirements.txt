@@ -1,0 +1,10 @@
+arrow
+beautifulsoup4
+bibtexparser
+deprecated
+fake_useragent
+free-proxy
+python-dotenv
+requests[socks]
+selenium
+stem

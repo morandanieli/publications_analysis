@@ -1,0 +1,21 @@
+newspaper3k
+pandas
+flask
+pymongo
+tika
+redis
+rq
+## using local copy
+#scihub
+#gnews
+#scholarly
+
+# brew install python
+#python3 -m spacy download en_core_web_sm
+
+# for mac issue in rq
+# I started worker using current python virtual env
+# I added the following env variable: export OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES
+
+# install redis server
+# install mongodb
